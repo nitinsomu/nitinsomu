@@ -1,4 +1,4 @@
-## Hey visitor
+## Hey!
 
 I'm Nitin Somu, a final year undergrad in CSE from VIT, Vellore.  
 Interested in contributing to projects in - but not limited to - machine learning, artificial intelligence and web development.  
